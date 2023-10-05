@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\design",
+    "\\app\\design\\adminhtml",
+    "\\app\\design\\adminhtml\\Magento",
+    "\\app\\design\\adminhtml\\Magento\\backend",
+    "\\app\\design\\adminhtml\\Magento\\backend\\Magento_Paypal",
+    "\\app\\design\\adminhtml\\Magento\\backend\\Magento_Paypal\\web",
+    "\\app\\design\\adminhtml\\Magento\\backend\\Magento_Paypal\\web\\css",
+    "\\app\\design\\adminhtml\\Magento\\backend\\Magento_Paypal\\web\\css\\source"
+  ],
+  "SelectedNode": "\\app\\design\\adminhtml\\Magento\\backend\\Magento_Paypal\\web\\css\\source\\_module.less",
+  "PreviewInSolutionExplorer": false
+}
